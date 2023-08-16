@@ -5,7 +5,7 @@ General start-up repo for web projects
 
 `npm install webpack webpack-cli --save-dev`
 
-`npm init i` if you deleted nodemodules folder and packagelock
+`npm i` if you deleted nodemodules folder and packagelock
 
 After that, you can build a project:
 
