@@ -11,7 +11,7 @@ After that, you can build a project:
 
 `npm run build` or `npm start` to use webpack web server and have a live update
 
-That lines were added for usability:
+That lines were added to package.json for usability:
 
     "scripts": {
   
