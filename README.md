@@ -7,6 +7,8 @@ General start-up repo for web projects
 
 `npm i` if you deleted node_modules folder and package-lock and want them back
 
+`npm i webpack-dev-server --D` if you want to install webpack inner liveserver. --D stands for development mode.
+
 After that, you can build a project:
 
 `npm run build` or `npm start` to use webpack web server and have a live update
