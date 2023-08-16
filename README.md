@@ -10,3 +10,15 @@ General start-up repo for web projects
 After that, you can build a project:
 
 `npm run build` or `npm start` to use webpack web server and have a live update
+
+That lines were added for usability:
+
+    "scripts": {
+  
+      "build": "webpack --mode=production",
+    
+      "watch": "webpack --watch --mode=development",
+    
+      "start": "webpack serve --mode=development --open"
+    
+    }
